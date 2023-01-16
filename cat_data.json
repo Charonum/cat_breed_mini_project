@@ -1,0 +1,151 @@
+{
+  "cat_breeds": [
+    {
+      "name": "Abyssinian",
+      "size": "Medium",
+      "coat_size": "Short",
+      "shedding": "Moderate",
+      "energy": "High"
+    },
+    {
+      "name": "American Shorthair",
+      "size": "Medium",
+      "coat_size": "Short",
+      "shedding": "Low",
+      "energy": "Moderate"
+    },
+    {
+      "name": "Arabian Mau",
+      "size": "Medium",
+      "coat_size": "Short",
+      "shedding": "Low",
+      "energy": "High"
+    },
+    {
+      "name": "Birman",
+      "size": "Medium",
+      "coat_size": "Medium",
+      "shedding": "Low",
+      "energy": "Low"
+    },
+    {
+      "name": "Burmese",
+      "size": "Medium",
+      "coat_size": "Short",
+      "shedding": "Low",
+      "energy": "Moderate"
+    },
+    {
+      "name": "British Shorthair",
+      "size": "Medium",
+      "coat_size": "Short",
+      "shedding": "Low",
+      "energy": "Low"
+    },
+    {
+      "name": "Chartreux",
+      "size": "Medium",
+      "coat_size": "Medium",
+      "shedding": "Low",
+      "energy": "Low"
+    },
+    {
+      "name": "European Shorthair",
+      "size": "Medium",
+      "coat_size": "Short",
+      "shedding": "Low",
+      "energy": "Low"
+    },
+    {
+      "name": "Dragon Li",
+      "size": "Medium",
+      "coat_size": "Short",
+      "shedding": "Low",
+      "energy": "High"
+    },
+    {
+      "name": "Egyptian Mau",
+      "size": "Medium",
+      "coat_size": "Short",
+      "shedding": "Low",
+      "energy": "High"
+    },
+    {
+      "name": "Korat",
+      "size": "Medium",
+      "coat_size": "Short",
+      "shedding": "Low",
+      "energy": "Moderate"
+    },
+    {
+      "name": "Maine Coon",
+      "size": "Large",
+      "coat_size": "Medium",
+      "shedding": "Moderate",
+      "energy": "High"
+    },
+    {
+      "name": "Norwegian Forest Cat",
+      "size": "Large",
+      "coat_size": "Long",
+      "shedding": "Moderate",
+      "energy": "Moderate"
+    },
+    {
+      "name": "Persian",
+      "size": "Medium",
+      "coat_size": "Long",
+      "shedding": "Moderate",
+      "energy": "Low"
+    },
+    {
+      "name": "Russian Blue",
+      "size": "Medium",
+      "coat_size": "Short",
+      "shedding": "Low",
+      "energy": "Low"
+    },
+    {
+      "name": "Siberian",
+      "size": "Large",
+      "coat_size": "Long",
+      "shedding": "Moderate",
+      "energy": "Moderate"
+    },
+    {
+      "name": "Singapura",
+      "size": "Small",
+      "coat_size": "Short",
+      "shedding": "Low",
+      "energy": "High"
+    },
+    {
+      "name": "Sokoke",
+      "size": "Medium",
+      "coat_size": "Short",
+      "shedding": "Low",
+      "energy": "High"
+    },
+    {
+      "name": "Somali",
+      "size": "Medium",
+      "coat_size": "Medium",
+      "shedding": "Moderate",
+      "energy": "High"
+    },
+    {
+      "name": "Turkish Angora",
+      "size": "Medium",
+      "coat_size": "Long",
+      "shedding": "Moderate",
+      "energy": "High"
+    },
+    {
+      "name": "Turkish Van",
+      "size": "Large",
+      "coat_size": "Long",
+      "shedding": "Moderate",
+      "energy": "High"
+    }
+  ]
+}
