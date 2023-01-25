@@ -1,7 +1,4 @@
 import json
-
-from streamlit_bokeh_events import streamlit_bokeh_events
-
 from scraper import find
 
 
