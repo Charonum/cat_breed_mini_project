@@ -1,7 +1,5 @@
 import json
 
-from bokeh.models import Button, CustomJS
-from petpy import Petfinder
 from streamlit_bokeh_events import streamlit_bokeh_events
 
 from scraper import find
